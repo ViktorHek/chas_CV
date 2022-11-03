@@ -1,0 +1,13 @@
+{
+    "education": [
+        {"name": "Craft Academy", "type": "Full-stack web development"},
+        {"name": "Chas Academy", "type": "Front-end development"},
+        {"name": "Göteborgs Universitet", "type": "Media- & kommunikations vetenskap"}
+    ],
+    "work": [
+        {"company": "Customer First", "role": "Junior full-stack developer"},
+        {"company": "Västra Hissingens Stadsdelsförvaltning", "role": "Intern"},
+        {"company": "Vigårda", "role": "Waiter"},
+        {"company": "Karlssons skola", "role": "Substitute teacher"}
+    ]
+}
